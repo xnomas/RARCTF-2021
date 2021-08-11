@@ -9,6 +9,7 @@ Writeups for RARCTF-2021:
 | Category |                             Name                             | Points |
 | :------: | :----------------------------------------------------------: | :----: |
 |   web    | [fancy button generator](https://github.com/xnomas/RARCTF-2021/tree/main/web/fancy_button_generator) |  100   |
+|   web    | [lemonthinker](https://github.com/xnomas/RARCTF-2021/tree/main/web/lemonthinker) |  100   |
 
 
 
